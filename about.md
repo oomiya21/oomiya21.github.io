@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 layout: page
-経歴
+title: 経歴
 permalink: /about/
 
 
